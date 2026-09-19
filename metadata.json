@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Baseline OpenAI end-to-end chat",
+  "moduleDescription": "AVM Pattern Module for Baseline OpenAI end-to-end chat",
+  "canonicalType": "openai-e2e-baseline",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.ptn.4f4198e"
+}
